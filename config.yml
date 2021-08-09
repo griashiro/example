@@ -1,7 +1,7 @@
 baseURL: "https://griashiro.github.io/example/"
 title: PaperMod
 paginate: 5
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
