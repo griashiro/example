@@ -8,7 +8,7 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways.
+Emoji can be enabled in a Hugo project in a number of ways
 
 <!--more-->
 
