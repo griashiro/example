@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PaperMod RTL</title>
-    <link>https://griashiro.github.io/example/fa/tags/</link>
+    <link>https://griashiro.github.io/gbiz.dev/fa/tags/</link>
     <description>Recent content in Tags on PaperMod RTL</description>
     <image>
-      <url>https://griashiro.github.io/example/papermod-cover.png</url>
-      <link>https://griashiro.github.io/example/papermod-cover.png</link>
+      <url>https://griashiro.github.io/gbiz.dev/papermod-cover.png</url>
+      <link>https://griashiro.github.io/gbiz.dev/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://griashiro.github.io/example/fa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://griashiro.github.io/gbiz.dev/fa/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://griashiro.github.io/example/fa/tags/css/</link>
+      <link>https://griashiro.github.io/gbiz.dev/fa/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/example/fa/tags/css/</guid>
+      <guid>https://griashiro.github.io/gbiz.dev/fa/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://griashiro.github.io/example/fa/tags/html/</link>
+      <link>https://griashiro.github.io/gbiz.dev/fa/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/example/fa/tags/html/</guid>
+      <guid>https://griashiro.github.io/gbiz.dev/fa/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://griashiro.github.io/example/fa/tags/markdown/</link>
+      <link>https://griashiro.github.io/gbiz.dev/fa/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/example/fa/tags/markdown/</guid>
+      <guid>https://griashiro.github.io/gbiz.dev/fa/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://griashiro.github.io/example/fa/tags/themes/</link>
+      <link>https://griashiro.github.io/gbiz.dev/fa/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/example/fa/tags/themes/</guid>
+      <guid>https://griashiro.github.io/gbiz.dev/fa/tags/themes/</guid>
       <description></description>
     </item>
     

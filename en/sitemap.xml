@@ -2,310 +2,310 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://griashiro.github.io/example/posts/papermod/papermod-installation/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/papermod/papermod-features/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/papermod/papermod-faq/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/papermod-faq/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/papermod/papermod-icons/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/papermod-icons/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/papermod/papermod-variables/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/papermod-variables/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/papermod/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/series/papermod/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://griashiro.github.io/example/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://griashiro.github.io/example/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://griashiro.github.io/example/"
-                />
-  </url><url>
-    <loc>https://griashiro.github.io/example/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://griashiro.github.io/example/posts/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/posts/"
+                href="https://griashiro.github.io/gbiz.dev/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/posts/"
+                href="https://griashiro.github.io/gbiz.dev/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/posts/"
+                href="https://griashiro.github.io/gbiz.dev/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/series/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/series/"
+                href="https://griashiro.github.io/gbiz.dev/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/series/"
+                href="https://griashiro.github.io/gbiz.dev/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/series/"
+                href="https://griashiro.github.io/gbiz.dev/posts/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/tags/"
+                href="https://griashiro.github.io/gbiz.dev/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/tags/"
+                href="https://griashiro.github.io/gbiz.dev/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/tags/"
+                href="https://griashiro.github.io/gbiz.dev/series/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/categories/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://griashiro.github.io/gbiz.dev/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://griashiro.github.io/gbiz.dev/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://griashiro.github.io/gbiz.dev/tags/"
+                />
+  </url><url>
+    <loc>https://griashiro.github.io/gbiz.dev/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/categories/"
+                href="https://griashiro.github.io/gbiz.dev/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/categories/"
+                href="https://griashiro.github.io/gbiz.dev/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/categories/"
+                href="https://griashiro.github.io/gbiz.dev/categories/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/css/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/tags/css/"
+                href="https://griashiro.github.io/gbiz.dev/fr/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/tags/css/"
+                href="https://griashiro.github.io/gbiz.dev/fa/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/tags/css/"
+                href="https://griashiro.github.io/gbiz.dev/tags/css/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/html/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/tags/html/"
+                href="https://griashiro.github.io/gbiz.dev/fr/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/tags/html/"
+                href="https://griashiro.github.io/gbiz.dev/fa/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/tags/html/"
+                href="https://griashiro.github.io/gbiz.dev/tags/html/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/markdown/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/tags/markdown/"
+                href="https://griashiro.github.io/gbiz.dev/fr/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/tags/markdown/"
+                href="https://griashiro.github.io/gbiz.dev/fa/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/tags/markdown/"
+                href="https://griashiro.github.io/gbiz.dev/tags/markdown/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/markdown-syntax/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/posts/markdown-syntax/"
+                href="https://griashiro.github.io/gbiz.dev/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/posts/markdown-syntax/"
+                href="https://griashiro.github.io/gbiz.dev/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/posts/markdown-syntax/"
+                href="https://griashiro.github.io/gbiz.dev/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/categories/syntax/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/categories/syntax/"
+                href="https://griashiro.github.io/gbiz.dev/fr/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/categories/syntax/"
+                href="https://griashiro.github.io/gbiz.dev/fa/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/categories/syntax/"
+                href="https://griashiro.github.io/gbiz.dev/categories/syntax/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/themes/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/tags/themes/"
+                href="https://griashiro.github.io/gbiz.dev/fr/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/tags/themes/"
+                href="https://griashiro.github.io/gbiz.dev/fa/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/tags/themes/"
+                href="https://griashiro.github.io/gbiz.dev/tags/themes/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/categories/themes/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/categories/themes/"
+                href="https://griashiro.github.io/gbiz.dev/fr/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/categories/themes/"
+                href="https://griashiro.github.io/gbiz.dev/fa/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/categories/themes/"
+                href="https://griashiro.github.io/gbiz.dev/categories/themes/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/series/themes-guide/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/series/themes-guide/"
+                href="https://griashiro.github.io/gbiz.dev/fr/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://griashiro.github.io/example/fa/series/themes-guide/"
+                href="https://griashiro.github.io/gbiz.dev/fa/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/series/themes-guide/"
+                href="https://griashiro.github.io/gbiz.dev/series/themes-guide/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/privacy/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/rich-content/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/shortcodes/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/placeholder-text/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/text/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/math-typesetting/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/tags/emoji/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/posts/emoji-support/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griashiro.github.io/example/archives/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/archives/"
+                href="https://griashiro.github.io/gbiz.dev/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/archives/"
+                href="https://griashiro.github.io/gbiz.dev/archives/"
                 />
   </url><url>
-    <loc>https://griashiro.github.io/example/search/</loc>
+    <loc>https://griashiro.github.io/gbiz.dev/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://griashiro.github.io/example/fr/search/"
+                href="https://griashiro.github.io/gbiz.dev/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://griashiro.github.io/example/search/"
+                href="https://griashiro.github.io/gbiz.dev/search/"
                 />
   </url>
 </urlset>
