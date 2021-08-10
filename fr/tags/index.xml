@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PaperModL2</title>
-    <link>https://griashiro.github.io/gbiz.dev/fr/tags/</link>
+    <link>https://gbiz.dev/fr/tags/</link>
     <description>Recent content in Tags on PaperModL2</description>
     <image>
-      <url>https://griashiro.github.io/gbiz.dev/papermod-cover.png</url>
-      <link>https://griashiro.github.io/gbiz.dev/papermod-cover.png</link>
+      <url>https://gbiz.dev/papermod-cover.png</url>
+      <link>https://gbiz.dev/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://griashiro.github.io/gbiz.dev/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gbiz.dev/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://griashiro.github.io/gbiz.dev/fr/tags/css/</link>
+      <link>https://gbiz.dev/fr/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/gbiz.dev/fr/tags/css/</guid>
+      <guid>https://gbiz.dev/fr/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://griashiro.github.io/gbiz.dev/fr/tags/html/</link>
+      <link>https://gbiz.dev/fr/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/gbiz.dev/fr/tags/html/</guid>
+      <guid>https://gbiz.dev/fr/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://griashiro.github.io/gbiz.dev/fr/tags/markdown/</link>
+      <link>https://gbiz.dev/fr/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/gbiz.dev/fr/tags/markdown/</guid>
+      <guid>https://gbiz.dev/fr/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://griashiro.github.io/gbiz.dev/fr/tags/themes/</link>
+      <link>https://gbiz.dev/fr/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://griashiro.github.io/gbiz.dev/fr/tags/themes/</guid>
+      <guid>https://gbiz.dev/fr/tags/themes/</guid>
       <description></description>
     </item>
     
