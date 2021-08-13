@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>emoji on PaperMod</title>
+    <title>emoji on gbiz.dev</title>
     <link>https://gbiz.dev/tags/emoji/</link>
-    <description>Recent content in emoji on PaperMod</description>
-    <image>
-      <url>https://gbiz.dev/papermod-cover.png</url>
-      <link>https://gbiz.dev/papermod-cover.png</link>
-    </image>
+    <description>Recent content in emoji on gbiz.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gbiz.dev/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
